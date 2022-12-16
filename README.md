@@ -9,8 +9,8 @@ configuration using Python and Django Framework.
 ## Applying to this project:
 
 - Python
-- Django
 - OpenCV
+- Django
 - HTML
 - CSS
 - Javascript
